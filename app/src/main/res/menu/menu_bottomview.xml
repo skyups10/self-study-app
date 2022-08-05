@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/todo"
+        android:enabled="true"
+        android:icon="@drawable/todolist"
+        android:title="To-Do"/>
+
+    <item
+        android:id="@+id/timer"
+        android:enabled="true"
+        android:icon="@drawable/timer"
+        android:title="Timer"/>
+
+    <item
+        android:id="@+id/diary"
+        android:enabled="true"
+        android:icon="@drawable/diary"
+        android:title="Diary"/>
+
+    <item
+        android:id="@+id/dday"
+        android:enabled="true"
+        android:icon="@drawable/dday"
+        android:title="D-day"/>
+
+</menu>
